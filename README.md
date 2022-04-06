@@ -4,6 +4,7 @@ Fully responsive landing page
 
 - Developed with ReactJS & Bootstrap/CSS
 - Deployed with Netlify at https://ecommerclandingpage.netlify.app/
+- Inspiration = FryingPan Youtube
 
 # Desktop View
 ![image](https://user-images.githubusercontent.com/91664359/161780541-e7ea160d-55bd-43d0-a621-c35e2ab4c9a0.png)
